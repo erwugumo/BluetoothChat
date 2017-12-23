@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\google\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\activity_main.xml",
+        "source": "H:\\google\\BluetoothChat\\Application\\src\\main\\res\\layout-w720dp\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\activity_main.xml",
+        "source": "H:\\BluetoothChat\\Application\\src\\main\\res\\layout-w720dp\\activity_main.xml"
+    }
+]
